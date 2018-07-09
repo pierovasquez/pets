@@ -8,7 +8,3 @@ Cuando se nos descarga el archivo rar desde esta pagina solo tenemos que quedarn
 el archivo fontello.css.
 
 Las imagenes estan libre de derechos de autor y estan sacadas de https://pixabay.com/es/
-
-Un saludo!
-
-Piero Vasquez.
